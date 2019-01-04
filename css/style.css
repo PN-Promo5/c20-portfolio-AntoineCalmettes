@@ -124,6 +124,7 @@ a:visited {
 .navbar-default.color-fill {
     background-color: #fff;
     border-color: transparent;
+        box-shadow: 1px 1px 1px black;
 }
 .btn-nav {
     background: transparent;
